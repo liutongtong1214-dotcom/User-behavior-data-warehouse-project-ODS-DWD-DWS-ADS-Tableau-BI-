@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/*.csv
+
+# Config
+db_config.py
+
+# OS
+.DS_Store
